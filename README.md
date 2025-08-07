@@ -15,10 +15,13 @@ A business intelligence dashboard designed for a fictional bike company, built u
 - KPI indicators for performance tracking
 
  🖼️ Preview
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4efcd479-c2f2-4138-9976-ef35e11e3aa3" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/52ac3f94-fe28-4620-af09-b9db4a7834b4" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/92f88789-f7c1-48ef-bd5f-7019307a0275" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fbee18b3-94cf-4b49-9069-344e5c4a8d49" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4d056e2-207c-484f-b8ef-c098dd2bff8c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c90172ed-1d3a-4b93-8c5a-f96b71d78098" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f7fc0ad6-e14e-401f-b439-e40ca98ee176" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bde754db-a527-43dd-9501-761bffc130d8" />
+
+
+
 
 
 
